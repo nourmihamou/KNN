@@ -2,7 +2,7 @@ PROJECT TITLE: Nearest Neighbor Classifier/Regressor
 
 PURPOSE OF PROJECT: This program is my own nearest-neighbor classifier/regressor. It allows datasets of varying sizes, uses any specified number of neighbors, gracefully handle ties, and permits/calculates different distance metrics (euclidean and Manhattan).
 
-VERSION or DATE: April 13, 20222
+VERSION or DATE: February 21, 20222
 
 AUTHORS: Nour Mihamou
 
